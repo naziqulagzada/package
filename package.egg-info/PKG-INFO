@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: package
+Version: 0.1
+Summary: mypackage is just a practice.
+Home-page: https://github.com/naziqulagzada/package.git
+Author: nazia
+Author-email: nqulagzada@gmail.com
+License: MIT
+Requires-Dist: requests
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary
