@@ -6,7 +6,7 @@ setup(
     description="",
     author="nazia",
     author_email="nqulag@gmail.com",
-    url="https://github.com/naziqulagzada/package",
+    url="github.com/naziqulagzada/pakage",
     license='MIT',
     install_requires="pandas",
     zip_safe= False
