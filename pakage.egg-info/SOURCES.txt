@@ -1,0 +1,9 @@
+setup.py
+pakage/__init__.py
+pakage/hi.py
+pakage.egg-info/PKG-INFO
+pakage.egg-info/SOURCES.txt
+pakage.egg-info/dependency_links.txt
+pakage.egg-info/not-zip-safe
+pakage.egg-info/requires.txt
+pakage.egg-info/top_level.txt
